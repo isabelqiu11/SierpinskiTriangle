@@ -9,7 +9,6 @@ public void setup()
 public void draw()
 {
   sierpinski(50,450,400);
-  //mousePressed();
 }
 public void mousePressed()
 {
